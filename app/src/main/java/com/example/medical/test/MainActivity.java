@@ -1,9 +1,11 @@
-package com.example.administrator.helloworld;
+package com.example.medical.test;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.medical.R;
 
 
 public class MainActivity extends ActionBarActivity {
